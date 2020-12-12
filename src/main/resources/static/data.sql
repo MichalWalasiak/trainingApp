@@ -1,0 +1,2 @@
+INSERT INTO SYSTEMUSER
+VALUES (1, 'LsnMichal', 'secret');
